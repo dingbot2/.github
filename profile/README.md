@@ -1,12 +1,5 @@
-## Hi there 👋
+# dingbot
 
-<!--
+A morden bot framework for qq.Include awesome group extension and great blockly plugin extension.Writed by cpp depend on boost.The core depend on go-cqhttp.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+一个现代qq机器人框架，包括了一个极好的群组插件和一个可视化插件开发插件。编写语言为cpp，基于boost。框架协议核心基于go-cqhttp。
